@@ -10,4 +10,4 @@ sudo start appserver
 
 sudo rm -rf /etc/nginx/sites-available/default
 
-sudo cp /home/codaxtr_user/pydemo/nginx_appserver.conf /etc/nginx/sites-available/appserver
+sudo cp /home/codaxtr_user/pydemo/nginx_appserver.conf /etc/nginx/sites-available/default
